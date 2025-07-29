@@ -77,16 +77,13 @@ A backup file was found accessible without authentication, exposing critical dat
 **🧪 Tool Used:** Nikto  
 **🧪 URL Discovered:**  
 ```
-http://192.168.217.86:3000/backup.zip
+https://cwe.mitre.org/data/definitions/530.html
 ```
 
 **💻 Downloaded using:**
 ```bash
-wget http://192.168.217.86:3000/backup.zip
+wget https://cwe.mitre.org/data/definitions/530.html
 ```
-
-**📸 Screenshot:**  
-*Attach terminal output or browser screenshot showing download success.*
 
 **💥 Impact:**  
 Leaked file may contain:
